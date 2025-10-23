@@ -24,8 +24,8 @@ accelerate>=0.33.0
 chatbot/
 │
 ├── model_loader.py        # Loads the Hugging Face model and tokenizer
-├── interface.py           # Chatbot Model inference
 ├── chat_memory.py         # Stores Conversation History of the Model
+├── interface.py           # Chatbot Model inference
 └── README.md              # Project documentation
 
 💡 How It Works
