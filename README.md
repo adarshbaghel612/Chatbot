@@ -73,5 +73,14 @@ while True:
         break
     print("Bot:", chatbot(user_input))
 
+You: What is AI?
+Bot: AI stands for Artificial Intelligence, a branch of computer science focused on building intelligent systems.
+
+You: Who invented AI?
+Bot: AI was first introduced by John McCarthy in the 1950s.
+
+You: Thank you!
+Bot: You're welcome!
+
 🤝 Contributing
 Pull requests are welcome! If you find a bug or want to suggest improvements, feel free to open an issue or PR.
