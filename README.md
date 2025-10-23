@@ -26,6 +26,7 @@ chatbot/
 ├── model_loader.py        # Loads the Hugging Face model and tokenizer
 ├── chat_memory.py         # Stores Conversation History of the Model
 ├── interface.py           # Chatbot Model inference
+├── Demo Video             # code overview & inference of chatbot
 └── README.md              # Project documentation
 
 💡 How It Works
